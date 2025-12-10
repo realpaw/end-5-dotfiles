@@ -1,15 +1,11 @@
-# HyprFlux
+# End 5 Alpha
 
 <div align="center">
 
-![HyprFlux](review/logo-2.png)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=fff)](https://archlinux.org/)
 [![Hyprland](https://img.shields.io/badge/Hyprland-00D9FF?logo=wayland&logoColor=fff)](https://hyprland.org/)
-[![Shell Script](https://img.shields.io/badge/Shell_Script-121011?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![GitHub stars](https://img.shields.io/github/stars/ahmad9059/HyprFlux?style=social)](https://github.com/ahmad9059/HyprFlux/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/ahmad9059/HyprFlux?style=social)](https://github.com/ahmad9059/HyprFlux/network/members)
 
 **A comprehensive collection of dotfiles and configurations for creating a beautiful, efficient Hyprland desktop environment on Arch Linux**
 
@@ -20,9 +16,6 @@
 
 ---
 
-## 🌐 Website
-
-**For detailed documentation and preferences, visit:** [https://hyprflux.dev](https://hyprflux.dev)
 
 ## 🌟 Overview
 
@@ -44,7 +37,7 @@ HyprFlux is a meticulously crafted collection of configuration files designed to
 
 </div>
 
-### ✨ What Makes HyprFlux Special?
+### ✨ What Makes End 5 Special?
 
 - **🎨 Beautiful Design**: Carefully curated themes and color schemes
 - **⚡ Performance Optimized**: Lightweight and fast configurations
@@ -67,14 +60,6 @@ HyprFlux is a meticulously crafted collection of configuration files designed to
 - Fresh Arch Linux installation with minimal profile
 - Basic system utilities (curl, git, sudo)
 - User account with sudo privileges
-
-## 🚀 Quick Installation
-
-### One-Line Magic Command
-
-```bash
-sh <(curl -fsSL https://hyprflux.dev/install)
-```
 
 > **⚠️ Important**: This script will modify your system configuration. Make sure to backup any existing dotfiles before proceeding.
 
@@ -211,21 +196,7 @@ HyprFlux/
 - `~/.zshrc` - Zsh shell configuration
 - `~/.tmux.conf` - Terminal multiplexer settings
 
-### Getting Help
 
-- 📋 Check the [Issues](https://github.com/ahmad9059/HyprFlux/issues) page
-- 💬 Join our community discussions
-- 📧 Contact: [ahmad9059@example.com](mailto:ahmad9059@example.com)
-
-## 🤝 Contributing
-
-We welcome contributions! Here's how you can help:
-
-### 🐛 Reporting Bugs
-
-1. Check existing [issues](https://github.com/ahmad9059/HyprFlux/issues)
-2. Create a new issue with detailed information
-3. Include system information and error logs
 
 ### 💡 Suggesting Features
 
@@ -259,18 +230,12 @@ Special thanks to:
 - **Open Source Contributors** - For the tools and themes used
 - **Community Members** - For feedback and contributions
 
-## 📊 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ahmad9059/HyprFlux)
-![GitHub last commit](https://img.shields.io/github/last-commit/ahmad9059/HyprFlux)
-![GitHub issues](https://img.shields.io/github/issues/ahmad9059/HyprFlux)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/ahmad9059/HyprFlux)
 
 ---
 
 <div align="center">
 
-**Made with ❤️ by [ahmad9059](https://github.com/ahmad9059)**
 
 ⭐ **Star this repository if you found it helpful!** ⭐
 
